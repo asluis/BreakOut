@@ -12,3 +12,6 @@ contrast, if the ball hits the bottom panel, the player will lose.
 ### Information: 
 
 This program was made by Luis Alvarez Sanchez using **Java** and the **Swing/AWT Libraries**.
+
+
+NOTE: This program was made while I was in high school.
